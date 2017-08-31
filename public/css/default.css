@@ -1,0 +1,13 @@
+header{
+    background: green;
+    padding: 20px;
+}
+
+#content{
+    background:#fff;
+    padding: 20px;
+}
+#foter{
+    background: #000;
+    padding: 20px;
+}
